@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-date >> hello.txt
+d=$(date)
+echo $d >> hello.txt
+git 
